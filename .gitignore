@@ -30,3 +30,6 @@ build/
 # Antigravity/Agentic tools
 .antigravitycli/
 .gemini/
+
+
+.history
